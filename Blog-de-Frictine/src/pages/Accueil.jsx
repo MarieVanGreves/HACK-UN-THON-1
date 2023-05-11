@@ -1,4 +1,4 @@
-
+import Welcome from "../components/Welcome/Welcome";
 
 function Accueil() {
   return (
