@@ -1,3 +1,6 @@
+import React from 'react';
+import Home from "../src/pages/Accueil"
+import styles from "../src/App.module.css"
 // eslint-disable-next-line no-unused-vars
 import React from "react";
 import styles from "./App.module.css";
@@ -17,6 +20,12 @@ function App() {
       
       <Footer />
     </Router>
+  );
+
+  return (
+    <div>
+        <Home />
+    </div>
   );
 }
 
