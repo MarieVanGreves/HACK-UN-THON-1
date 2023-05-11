@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "PurpleQueen";
+    src: url('/src/assets/PurpleQueen.ttf');
+}
+@font-face {
+    font-family: "Bebas-Regular";
+    src: url('/src/assets/Bebas-Regular.ttf');
+}
+
+
+
+.welcomeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+
+}
+
+.welcomeTitle {
+    color: white;
+    font-size: 10vh;
+    font-family: 'PurpleQueen', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.welcomeBtn {
+    border-radius: 25px;
+    padding: 2vh;
+    background-color: #ffffff7a;
+    border: none;
+    font-family: 'Bebas-Regular', sans-serif;
+    font-size: 2.5vh;
+    width: 15vw;
+}
+
+.welcomeBtn:hover {
+    background-color: #9c14bb93;
+}
+
+.containerBgTitle {
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #66635b49;
+    width: 50%;
+    height: 50%;
+}
