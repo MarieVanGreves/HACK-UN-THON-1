@@ -1,6 +1,6 @@
 function Blog() {
     return ( 
-        <div>PROUT</div>
+        <div></div>
      );
 }
 
