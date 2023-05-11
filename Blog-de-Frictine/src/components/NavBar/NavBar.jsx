@@ -1,23 +1,21 @@
-import React from "react";
-import { BrowserRouter, Link, NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import logo from "../../assets/LOGO.png";
 import styles from "./NavBar.module.css";
 
 function NavBar() {
   return (
     <nav className={styles.navBarContainer}>
-      <BrowserRouter>
-        <div className={styles.logoContainer}>
-          <Link to="/">
-            <img
-              className={styles.fritineLogo}
-              src={logo}
-              alt="Logo d'Au Pays de Fritine et Fanny"
-            />
-          </Link>
-          </div>
-          <div className={styles.linkContainer}>
-                <ul className={styles.navLinks}>
+      <div className={styles.logoContainer}>
+        <Link to="/">
+          <img
+            className={styles.fritineLogo}
+            src={logo}
+            alt="Logo d'Au Pays de Fritine et Fanny"
+          />
+        </Link>
+      </div>
+      <div className={styles.linkContainer}>
+        <ul className={styles.navLinks}>
           <li>
             <NavLink
               className={styles.navLink}
@@ -38,9 +36,7 @@ function NavBar() {
             </NavLink>
           </li>
         </ul>
-        </div>
-  
-      </BrowserRouter>
+      </div>
     </nav>
   );
 }
