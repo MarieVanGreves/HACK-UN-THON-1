@@ -10,5 +10,16 @@ function Home() {
     )
 }
 
+import Welcome from "../components/Welcome/Welcome";
+
+function Accueil() {
+  return (
+    <div>
+      <Welcome />
+    </div>
+  );
+}
+
+export default Accueil;
 
 export default Home;
