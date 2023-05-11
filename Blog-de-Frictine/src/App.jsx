@@ -9,12 +9,12 @@ import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <Router>
-      <div className={styles.appBackground}>
+      
         <Routes>
           <Route path="/" element={<Accueil />} />
-          <Route path="/" element={<Blog />} />
+          <Route path="/Blog" element={<Blog />} />
         </Routes>
-      </div>
+      
       <Footer />
     </Router>
   );
