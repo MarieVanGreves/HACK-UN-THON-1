@@ -1,0 +1,24 @@
+.modalBackdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* z-index: 2; */
+}
+
+.modalContent {
+    width: 60%;
+    min-height: 60%;
+    background-color: white;
+    padding: 25px;
+    background-image: url("../../assets/nostronches.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: sepia(100%);
+    border-radius: 15px;
+}

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styles from "./Welcome.module.css";
 
 function Welcome() {
@@ -6,7 +7,7 @@ function Welcome() {
             <div className={styles.containerBgTitle}>
                 <h1 className={styles.welcomeTitle}>Bienvenue sur mon blog </h1>
                 <button type="button" className={styles.welcomeBtn}>
-                    Vers mon super blog !
+                    <Link to="/Blog"> Vers mon super blog !</Link>
                 </button>
             </div>
         </div>
