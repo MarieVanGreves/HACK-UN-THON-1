@@ -1,18 +1,28 @@
 .footerContainer {
-    position:fixed;
-    display: flex;
-    justify-content: space-around;
-    color:white;
-    align-items: center;
-    width: 100%;
-    font-size: large;
-    font-weight: bold;
-    left: 0;
-    height: 60px;
-    bottom: 0;
-    background-color: #66635b49;
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  align-items: center;
+  width: 100%;
+  font-size: large;
+  font-weight: bold;
+  left: 0;
+  height: 60px;
+  bottom: 0;
+  background-color: #66635b49;
 }
 
 .hackUnThon {
-    margin-left: 6%;
+  margin-left: 6%;
+}
+
+.hackUnThon:hover {
+  cursor: pointer;
+  color: #9364d4;
+  transition: color 0.2s ease-out;
+}
+
+.footerLogo {
+  padding-right: 10%;
 }

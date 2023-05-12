@@ -31,7 +31,7 @@ function Feeds() {
         <div className={styles.right}>
           <p className={styles.feedTitle}>@TESSHAPPY</p>
           <p className={styles.message}>
-            Salut, moi c'est Tess'Happy, et je souris à la vie !
+            Salut, moi c'est Tess'Happy, et je souris a la vie !
           </p>
         </div>
       </div>
@@ -49,7 +49,7 @@ function Feeds() {
             <div className={styles.left}></div>@VALMOUCHE
           </p>
           <p className={styles.message}>
-            Je vais arrêter les réseaux sociaux et aller à l'ANPE.
+            Je vais arreter les reseaux sociaux et aller a l'ANPE.
           </p>
         </div>
       </div>
@@ -65,8 +65,8 @@ function Feeds() {
         <div className={styles.right}>
           <p className={styles.feedTitle}>@MAR'HIPPIE</p>
           <p className={styles.message}>
-            Je vous conseille ce séminaire de léchage de caillou, vous m'en
-            direz des nouvelles !.
+            Je vous conseille ce seminaire de lechage de caillou, vous m'en
+            direz des nouvelles !
           </p>
         </div>
       </div>
@@ -82,7 +82,7 @@ function Feeds() {
         <div className={styles.right}>
           <p className={styles.feedTitle}>@ALEX'KUZBIDON</p>
           <p className={styles.message}>
-            Où suis-je tombé ? Un univers paralléle ?{" "}
+            Ou suis-je tombe ? Un univers parallele ?{" "}
           </p>
         </div>
       </div>

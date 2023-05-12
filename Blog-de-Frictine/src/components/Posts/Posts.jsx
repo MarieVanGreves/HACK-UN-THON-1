@@ -23,35 +23,35 @@ export default function Posts() {
           <p className={styles.paraPost}>
             Oh, ma gueule, j'te raconte mon trip de ouf en Inde pour voir mon
             gourou ! C'était le voyage spirituel de ma life, j'te dis pas !
-            Déjà, l'avion, c'était la croisière s'amuse, ma biche ! Les hôtesses
-            en saris, les sièges tout confort, et la bouffe épicée à tomber par
-            terre. Les meufs dans l'avion, elles étaient toutes en mode
-            "Namaste", genre "Tu pars voir ton gourou en Inde ? Trop stylé, ma
-            belle !" Arrivée à destination, j'ai plongé direct dans l'ambiance
-            indienne. Les couleurs, les odeurs, les bazars de malade, j'étais en
-            mode tourbillon de sensations. J'ai enfilé mon sari, des bijoux qui
-            brillent de mille feux, et j'ai fait péter mes lunettes de soleil de
-            ouf. Direction l'ashram de mon gourou, là où la magie opère. J'ai
-            rencontré des yogis, des disciples, des gens en quête de
-            spiritualité. Mon gourou, c'est un mec charismatique, avec sa barbe
+            Dejà, l'avion, c'etait la croisière s'amuse, ma biche ! Les hotesses
+            en saris, les sieges tout confort, et la bouffe épicee à tomber par
+            terre. Les meufs dans l'avion, elles etaient toutes en mode
+            "Namaste", genre "Tu pars voir ton gourou en Inde ? Trop styled, ma
+            belle !" Arrivee a destination, j'ai plonge direct dans l'ambiance
+            indienne. Les couleurs, les odeurs, les bazars de malade, j'etais en
+            mode tourbillon de sensations. J'ai enfile mon sari, des bijoux qui
+            brillent de mille feux, et j'ai fait peter mes lunettes de soleil de
+            ouf. Direction l'ashram de mon gourou, la ou la magie opere. J'ai
+            rencontre des yogis, des disciples, des gens en quête de
+            spiritualite. Mon gourou, c'est un mec charismatique, avec sa barbe
             et ses yeux perçants. Il a le pouvoir de te transmettre la sagesse
-            et la paix intérieure, tu vois le truc. Les journées, c'était un
-            enchaînement de méditations, de chants sacrés, de danses exotiques.
-            J'ai même fait du yoga sur un tapis de fleurs, ma gueule, un truc de
-            ouf ! Les gens autour de moi, ils étaient en transe, ils flottaient
-            sur un nuage. Niveau bouffe, j'ai goûté à toutes les spécialités
-            indiennes. Des currys qui te font voyager jusqu'au septième ciel,
+            et la paix interieure, tu vois le truc. Les journees, c'etait un
+            enchainement de meditations, de chants sacres, de danses exotiques.
+            J'ai meme fait du yoga sur un tapis de fleurs, ma gueule, un truc de
+            ouf ! Les gens autour de moi, ils etaient en transe, ils flottaient
+            sur un nuage. Niveau bouffe, j'ai goute a toutes les specialites
+            indiennes. Des currys qui te font voyager jusqu'au septieme ciel,
             des naans bien chauds, des lassis bien frais. Et puis, j'ai appris à
-            manger avec les mains, à sentir les saveurs, à être connectée à
-            chaque bouchée. Mais tu sais quoi ? Le plus important, c'était cette
-            connexion avec moi-même. J'ai plongé au plus profond de mon être,
-            j'ai exploré mes pensées, mes émotions, mes rêves. Mon gourou, il
-            m'a ouvert les portes de la spiritualité, il m'a montré le chemin
-            vers la paix intérieure. Voilà, ma biche, c'était mon voyage de ouf
-            en Inde pour voir mon gourou. Entre méditations, chants sacrés,
-            découvertes culinaires et rencontres spirituelles, j'ai vécu une
-            expérience qui a transformé ma vie. L'Inde, c'est un vrai bain de
-            spiritualité, crois-moi, c'est de la bombe atomique !
+            manger avec les mains, a sentir les saveurs, a etre connectee a
+            chaque bouchee. Mais tu sais quoi ? Le plus important, c'etait cette
+            connexion avec moi-meme. J'ai plonge au plus profond de mon etre,
+            j'ai explore mes pensees, mes emotions, mes reves. Mon gourou, il
+            m'a ouvert les portes de la spiritualite, il m'a montre le chemin
+            vers la paix interieure. Voila, ma biche, c'etait mon voyage de ouf
+            en Inde pour voir mon gourou. Entre meditations, chants sacres,
+            decouvertes culinaires et rencontres spirituelles, j'ai vecu une
+            experience qui a transforme ma vie. L'Inde, c'est un vrai bain de
+            spiritualite, crois-moi, c'est de la bombe atomique !
           </p>
         </div>
         <div className={styles.arrow}>
@@ -75,39 +75,39 @@ export default function Posts() {
             <h1 className={styles.title}>SALUT, C'EST FANLINE !</h1>
           </div>
           <p className={styles.paraPost}>
-            Hé salut ma gueule ! Tu vas pas le croire, j'te raconte mon voyage
-            de ouf à Miami, tu vas être sur le cul, j'te dis pas ! Déjà, tu
-            sais, j'me suis pointée là-bas avec ma bande de meufs, en mode
-            bikini, lunettes de soleil, talons hauts, tu vois l'délire.
-            Direction la plage de South Beach, là où c'est tout chaud, avec le
+            He salut ma gueule ! Tu vas pas le croire, j'te raconte mon voyage
+            de ouf a Miami, tu vas etre sur le cul, j'te dis pas ! Deja, tu
+            sais, j'me suis pointee la-bas avec ma bande de meufs, en mode
+            bikini, lunettes de soleil, talons hauts, tu vois l'delire.
+            Direction la plage de South Beach, la ou c'est tout chaud, avec le
             sable blanc, les palmiers et les p'tites vagues qui chatouillent tes
-            pieds. On s'est fait péter les selfies de ouf devant les cabanes
-            colorées, en mode pose lascive, le vent dans les cheveux, histoire
+            pieds. On s'est fait peter les selfies de ouf devant les cabanes
+            colorees, en mode pose lascive, le vent dans les cheveux, histoire
             de montrer qu'on est des vraies bombasses. Les mecs sur la plage,
             ils en pouvaient plus, genre "Oh la mif, regardez ces cagolasses,
-            elles viennent d'où ? Marseille ? Trop canons !" Évidemment, on a
-            fait péter les fringues de malade. Les robes moulantes, les shorts
-            ultra-courts, les talons à paillettes, tout ça quoi ! Tu sais, quand
-            tu marches, t'entends le son de la cagole qui claque sur le bitume.
-            Les gens se retournaient sur notre passage, ils étaient carrément
-            sous le charme, ma biche. Niveau bouffe, on s'est fait péter tous
-            les trucs de là-bas. Des burgers de la mort, des frites
-            croustillantes, des hot-dogs à s'en péter le bide, sans oublier les
-            cocktails de ouf qui te font tourner la tête. On a même fait un
-            détour par Little Havana, ambiance latino à fond les ballons, salsa,
+            elles viennent d'ou ? Marseille ? Trop canons !" Evidemment, on a
+            fait peter les fringues de malade. Les robes moulantes, les shorts
+            ultra-courts, les talons a paillettes, tout ça quoi ! Tu sais, quand
+            tu marches, t'entends le son de la bimbo qui claque sur le bitume.
+            Les gens se retournaient sur notre passage, ils etaient carrement
+            sous le charme, ma biche. Niveau bouffe, on s'est fait peter tous
+            les trucs de la-bas. Des burgers de la mort, des frites
+            croustillantes, des hot-dogs a s'en peter le bide, sans oublier les
+            cocktails de ouf qui te font tourner la tete. On a meme fait un
+            detour par Little Havana, ambiance latino a fond les ballons, salsa,
             mojitos, tout ça. Le soir, on a sorti nos plus belles tenues pour
-            envahir les boîtes de nuit de Miami. Ça faisait zizir de danser
+            envahir les boites de nuit de Miami. Ça faisait zizir de danser
             jusqu'au bout de la nuit sur des sons de ouf, entre hip-hop,
-            reggaeton et électro. Les mecs, ils nous tournaient autour comme des
+            reggaeton et electro. Les mecs, ils nous tournaient autour comme des
             mouches sur du sirop, genre "T'es trop bonne, la meuf, c'est quoi
-            ton secret ?" Bon, tu te doutes bien que j'ai fait un p'tit tour à
-            Miami Beach pour voir les stars. J'ai zieuté les villas de ouf, les
+            ton secret ?" Bon, tu te doutes bien que j'ai fait un p'tit tour a
+            Miami Beach pour voir les stars. J'ai zieute les villas de ouf, les
             grosses bagnoles, tout ça. Peut-être qu'un jour, ma gueule, je
-            m'offrirai une villa là-bas, histoire d'avoir ma petite place au
-            soleil. Voilà, mon pote, c'était mon trip de cagole à Miami. Entre
-            bronzette, fringues de ouf, bouffes de malade et fiesta jusqu'au
-            bout de la night, j'ai kiffé ma race. Miami, c'est le paradis des
-            cagoles, crois-moi, c'est de la bombe !
+            m'offrirai une villa la-bas, histoire d'avoir ma petite place au
+            soleil. Voilà, mon pote, c'etait mon trip de Marseillaise a Miami.
+            Entre bronzette, fringues de ouf, bouffes de malade et fiesta
+            jusqu'au bout de la night, j'ai kiffe ma race. Miami, c'est le
+            paradis des Marseillaise, crois-moi, c'est de la bombe !
           </p>
         </div>
         <div className={styles.arrow}>
@@ -131,35 +131,35 @@ export default function Posts() {
             <h1 className={styles.title}>SALUT, C'EST FRICNOUCHE ! :D</h1>
           </div>
           <p className={styles.paraPost}>
-            Oh la meuf, t'as pas idée de l'aventure que j'ai vécue à Bali, ma
+            Oh la meuf, t'as pas idee de l'aventure que j'ai vecue a Bali, ma
             gueule ! J'ai fait une retraite spirituelle de ouf, ça m'a mis la
-            tête à l'envers, je te dis pas. Déjà, le voyage en avion, c'était un
-            truc de dingue. Les sièges super confortables, les écrans avec des
-            films de malade, et la bouffe qui te fait voyager jusqu'à l'autre
-            bout du monde. Les meufs de la classe affaire, elles étaient toutes
-            chic, genre "Hello, tu pars où comme ça ? Bali ? Moi aussi !"
-            Arrivée sur place, j'ai été accueillie comme une princesse. Les
+            tete a l'envers, je te dis pas. Dejà, le voyage en avion, c'etait un
+            truc de dingue. Les sieges super confortables, les ecrans avec des
+            films de malade, et la bouffe qui te fait voyager jusqu'a l'autre
+            bout du monde. Les meufs de la classe affaire, elles etaient toutes
+            chic, genre "Hello, tu pars ou comme ça ? Bali ? Moi aussi !"
+            Arrivee sur place, j'ai ete accueillie comme une princesse. Les
             gens, ils sont super souriants, ils t'offrent des fleurs et tout.
-            J'avais ma petite villa avec piscine privée, c'était la classe à
-            Dallas ! Tu sais, la retraite spirituelle, c'était pas de tout
-            repos, faut être honnête. Des cours de yoga à gogo, des méditations
-            de ouf, des massages relaxants, tout ça quoi. Mais bon, j'ai kiffé
-            ma race. Les paysages, c'était de la bombe atomique. Des rizières à
+            J'avais ma petite villa avec piscine privee, c'etait la classe a
+            Dallas ! Tu sais, la retraite spirituelle, c'etait pas de tout
+            repos, faut etre honnete. Des cours de yoga a gogo, des meditations
+            de ouf, des massages relaxants, tout ça quoi. Mais bon, j'ai kiffe
+            ma race. Les paysages, c'etait de la bombe atomique. Des rizieres a
             perte de vue, des temples magnifiques, des plages de sable fin, et
-            le soleil qui te caresse la peau. J'ai même fait une balade à dos
-            d'éléphant, c'était un truc de fou ! Niveau bouffe, j'ai découvert
-            des trucs de ouf. Des fruits exotiques à gogo, des plats épicés à
-            tomber par terre, et le thé au jasmin, une tuerie ! Et puis, j'ai
-            rencontré des gens de partout dans le monde, des yogis, des
-            méditants, des gens qui cherchent la paix intérieure, tu vois le
-            délire. Bon, faut être honnête, j'ai un peu galéré pour me passer de
-            mon téléphone portable. Mais tu sais quoi ? J'ai fini par lâcher
-            prise, et ça m'a fait un bien fou. Plus de réseaux sociaux, plus de
-            notifications, juste moi, la nature et les autres. Voilà, ma biche,
-            c'était mon voyage de ouf à Bali pour une retraite spirituelle.
-            Entre yoga, méditation, balades à dos d'éléphant et découvertes
-            culinaires, j'ai vécu une aventure inoubliable. Bali, c'est un vrai
-            paradis pour se ressourcer, crois-moi, je te le recommande à fond !
+            le soleil qui te caresse la peau. J'ai meme fait une balade à dos
+            d'elephant, c'etait un truc de fou ! Niveau bouffe, j'ai decouvert
+            des trucs de ouf. Des fruits exotiques a gogo, des plats épices a
+            tomber par terre, et le the au jasmin, une tuerie ! Et puis, j'ai
+            rencontre des gens de partout dans le monde, des yogis, des
+            meditants, des gens qui cherchent la paix interieure, tu vois le
+            delire. Bon, faut etre honnete, j'ai un peu galere pour me passer de
+            mon téléphone portable. Mais tu sais quoi ? J'ai fini par lacher
+            prise, et ça m'a fait un bien fou. Plus de reseaux sociaux, plus de
+            notifications, juste moi, la nature et les autres. Voila, ma biche,
+            c'etait mon voyage de ouf a Bali pour une retraite spirituelle.
+            Entre yoga, meditation, balades à dos d'elephant et decouvertes
+            culinaires, j'ai vecu une aventure inoubliable. Bali, c'est un vrai
+            paradis pour se ressourcer, crois-moi, je te le recommande a fond !
           </p>
         </div>
         <div className={styles.arrow}>
@@ -184,28 +184,28 @@ export default function Posts() {
           </div>
           <p className={styles.paraPost}>
             Wesh ma poule, j'ai fait un voyage de ouf au Japon pour retrouver ma
-            pote Kei ! Elle m'avait parlé du shintoïsme, une religion trop
-            mystique avec des temples et des cérémonies de dingue. Alors moi, tu
-            me connais, j'ai décidé de la suivre dans cette aventure spirituelle
-            ! On a commencé par Tokyo, une ville de ouf avec des buildings qui
-            touchent le ciel et des néons qui clignotent dans tous les sens. On
-            s'est baladé dans les rues, en mode "deux cagoles à Tokyo", et on a
-            mangé des sushis trop frais et des ramens trop bons. J'étais là, en
+            pote Kei ! Elle m'avait parle du shintoïsme, une religion trop
+            mystique avec des temples et des ceremonies de dingue. Alors moi, tu
+            me connais, j'ai decide de la suivre dans cette aventure spirituelle
+            ! On a commence par Tokyo, une ville de ouf avec des buildings qui
+            touchent le ciel et des neons qui clignotent dans tous les sens. On
+            s'est baladees dans les rues, en mode "deux potos a Tokyo", et on a
+            mange des sushis trop frais et des ramens trop bons. J'etais la, en
             mode "j'adore le Japon, c'est trop kiffant ici !" Mais bon, ce qui
-            m'intéressait vraiment, c'était la religion shintoïste. Kei m'a
-            emmené voir des temples où les gens se recueillaient et priaient.
+            m'interessait vraiment, c'etait la religion shintoïste. Kei m'a
+            emmenee voir des temples ou les gens se recueillaient et priaient.
             Y'avait des torii, ces portes en bois rouges, et des statues de
-            dieux et de déesses. C'était trop beau, une ambiance trop zen, tu
-            vois ? On a même assisté à une cérémonie shintoïste, où on a vu des
-            prêtres en tenue traditionnelle qui faisaient des incantations.
-            J'étais là, en mode "c'est trop mystique ma poule, je me sens
-            connectée avec l'univers !" Et puis, on est allé à Kyoto, une ville
+            dieux et de deesses. C'etait trop beau, une ambiance trop zen, tu
+            vois ? On a meme assiste a une ceremonie shintoïste, ou on a vu des
+            pretres en tenue traditionnelle qui faisaient des incantations.
+            J'etais la, en mode "c'est trop mystique ma poule, je me sens
+            connectee avec l'univers !" Et puis, on est allee à Kyoto, une ville
             encore plus traditionnelle avec des temples magnifiques et des
-            jardins zen. On a visité le Fushimi Inari, un temple trop beau avec
-            des milliers de torii alignés sur un chemin. On a marché longtemps,
-            mais c'était trop beau, et y'avait une vue de ouf sur la ville en
+            jardins zen. On a visite le Fushimi Inari, un temple trop beau avec
+            des milliers de torii alignes sur un chemin. On a marche longtemps,
+            mais c'etait trop beau, et y'avait une vue de ouf sur la ville en
             haut. Au final, ma gueule, ce voyage au Japon m'a ouvert l'esprit.
-            J'ai découvert une autre culture, une autre religion, et j'ai passé
+            J'ai decouvert une autre culture, une autre religion, et j'ai passe
             des moments de ouf avec ma pote Kei. Maintenant, j'ai un souvenir
             trop beau de cette aventure, et j'ai envie de retourner au Japon
             pour explorer encore plus !
@@ -234,32 +234,32 @@ export default function Posts() {
           <p className={styles.paraPost}>
             Oh ma gueule, t'as vu ça ? C'est moi, la meuf de Marseille, et
             devine comment ils m'appellent ici en Suisse dans les montagnes
-            glacées ? Fantelweiss, ouais, comme la fleur de ouf ! Alors voilà,
-            j'arrive dans ce coin paumé avec ma doudoune flashy et mes lunettes
-            de ski à paillettes, prête à dévaler les pentes comme une vraie
-            championne. Et là, je rencontre ce berger, un mec avec une barbe de
-            bûcheron et des yeux bleus à faire tomber les chamois. Il me regarde
-            et me dit : "Hé toi, t'es Fantelweiss maintenant !", en parlant de
-            cette putain de fleur qu'on voit dans les dessins animés. J'étais
-            là, genre "Fantelweiss ? Mais c'est trop mignon ma biche, ça va pas
-            trop avec mon image de fille du Sud !" Mais bon, le berger, il était
-            trop sympa. Il m'a montré ses moutons, tu sais, ceux avec les
-            cloches qui font ding-ding dans les montagnes. J'ai même réussi à en
-            approcher un et à lui faire un bisou, c'était trop chou ! Le soir,
-            on se retrouvait dans sa cabane, à côté du poêle à bois. Il me
-            faisait goûter du fromage et du vin chaud, en me racontant des
-            histoires de la montagne. J'étais là, en mode "Fantelweiss la
-            cagole, en train de manger du fromage avec un berger dans les
+            glacees ? Fantelweiss, ouais, comme la fleur de ouf ! Alors voila,
+            j'arrive dans ce coin paume avec ma doudoune flashy et mes lunettes
+            de ski a paillettes, prete a devaler les pentes comme une vraie
+            championne. Et la, je rencontre ce berger, un mec avec une barbe de
+            bucheron et des yeux bleus à faire tomber les chamois. Il me regarde
+            et me dit : "He toi, t'es Fantelweiss maintenant !", en parlant de
+            cette putain de fleur qu'on voit dans les dessins animes. J'etais
+            la, genre "Fantelweiss ? Mais c'est trop mignon ma biche, ça va pas
+            trop avec mon image de fille du Sud !" Mais bon, le berger, il etait
+            trop sympa. Il m'a montre ses moutons, tu sais, ceux avec les
+            cloches qui font ding-ding dans les montagnes. J'ai meme reussi a en
+            approcher un et a lui faire un bisou, c'etait trop chou ! Le soir,
+            on se retrouvait dans sa cabane, a côté du poele a bois. Il me
+            faisait gouter du fromage et du vin chaud, en me racontant des
+            histoires de la montagne. J'etais la, en mode "Fantelweiss la
+            fadasse, en train de manger du fromage avec un berger dans les
             montagnes suisses, ça le fait trop !" Et puis, on a fait une petite
-            sortie en raquettes, tu vois le délire. Je glissais et je tombais
-            comme une vraie débutante, mais j'avais trop la classe avec mes
+            sortie en raquettes, tu vois le delire. Je glissais et je tombais
+            comme une vraie debutante, mais j'avais trop la classe avec mes
             raquettes roses et mes leggings fluos. Les gens me regardaient
-            bizarrement, mais j'étais là, en mode "Fantelweiss la Marseillaise,
-            elle s'éclate sur les pistes en Suisse, rien ne peut l'arrêter !"
-            Alors voilà, ma gueule, c'était mon trip de ouf en Suisse dans les
-            montagnes glacées en tant que Fantelweiss la fleur. J'ai découvert
+            bizarrement, mais j'étais la, en mode "Fantelweiss la Marseillaise,
+            elle s'eclate sur les pistes en Suisse, rien ne peut l'arreter !"
+            Alors voila, ma gueule, c'etait mon trip de ouf en Suisse dans les
+            montagnes glacees en tant que Fantelweiss la fleur. J'ai decouvert
             un autre univers, avec des moutons, du fromage et des raquettes
-            roses. C'était pas le genre de voyage que j'imaginais, mais au
+            roses. C'etait pas le genre de voyage que j'imaginais, mais au
             final, ça m'a fait kiffer ma race !
           </p>
         </div>
@@ -285,29 +285,29 @@ export default function Posts() {
           </div>
           <p className={styles.paraPost}>
             Wesh ma poule, j'ai fait un voyage de ouf en Italie pour retrouver
-            ma pote Fanny la peluche ! On s'était rencontré à Marseille, et on
-            avait trop kiffé ensemble à faire des soirées et des virées
-            shopping. Alors quand elle m'a proposé de la rejoindre en Italie,
-            j'ai pas hésité une seconde ! J'ai débarqué à Milan, et j'étais là,
-            en mode "coucou l'Italie, me voilà !". J'avais mon petit sac à dos,
+            ma pote Fanny la peluche ! On s'etait rencontrees a Marseille, et on
+            avait trop kiffe ensemble a faire des soirees et des virees
+            shopping. Alors quand elle m'a propose de la rejoindre en Italie,
+            j'ai pas hesité une seconde ! J'ai debarque a Milan, et j'étais la,
+            en mode "coucou l'Italie, me voila !". J'avais mon petit sac à dos,
             mes lunettes de soleil, et mon accent marseillais qui faisait rire
-            les italiens. D'ailleurs, les habitants de la ville m'ont appelé
-            Fantaccini, c'était trop marrant ! Fanny m'a fait découvrir la
-            ville, on a visité la cathédrale et le théâtre de la Scala, et on a
-            mangé des pâtes à la carbonara trop bonnes. Ensuite, on est parti
+            les italiens. D'ailleurs, les habitants de la ville m'ont appelee
+            Fantaccini, c'etait trop marrant ! Fanny m'a fait decouvrir la
+            ville, on a visite la cathedrale et le theatre de la Scala, et on a
+            mange des pates a la carbonara trop bonnes. Ensuite, on est partiees
             pour Venise, la ville de l'amour, avec ses canaux et ses gondoles.
-            On a même fait un tour en gondole, avec le gondolier qui chantait
+            On a meme fait un tour en gondole, avec le gondolier qui chantait
             des chansons d'amour, trop romantique ma poule ! Mais le plus fou,
-            c'est quand on est allé à Rome. On a visité le Colisée, l'arc de
-            Triomphe et la fontaine de Trevi. Et puis, on a rencontré des
-            italiens trop drôles qui nous ont emmené faire la fête dans les bars
-            du quartier Trastevere. On a dansé toute la nuit, et j'ai même
-            appris à dire "saluton" en italien ! Au final, ma gueule, ce voyage
-            en Italie était trop fou ! J'ai vécu des aventures de ouf avec ma
-            pote Fanny la peluche, et j'ai rencontré des italiens trop sympas.
-            Maintenant, je suis de retour à Marseille, avec plein de souvenirs
-            et des photos de ouf, et j'ai envie de repartir en Italie pour vivre
-            encore plus d'aventures !
+            c'est quand on est allees à Rome. On a visite le Colisee, l'arc de
+            Triomphe, la porte de Brandebourg et la fontaine de Trevi. Et puis,
+            on a rencontre des italiens trop droles qui nous ont emmenees faire
+            la fete dans les bars du quartier Trastevere. On a danse toute la
+            nuit, et j'ai meme appris a dire "Hola que tal !" en italien ! Au
+            final, ma gueule, ce voyage en Italie etait trop fou ! J'ai vecu des
+            aventures de ouf avec ma pote Fanny la peluche, et j'ai rencontre
+            des italiens trop sympas. Maintenant, je suis de retour a Marseille,
+            avec plein de souvenirs et des photos de ouf, et j'ai envie de
+            repartir en Italie pour vivre encore plus d'aventures !
           </p>
         </div>
         <div className={styles.arrow}>

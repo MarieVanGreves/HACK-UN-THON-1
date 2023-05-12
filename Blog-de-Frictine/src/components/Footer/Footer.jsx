@@ -19,7 +19,7 @@ function Footer() {
 
       <Modal shown={shown} setShown={setShown} />
 
-      <img src={logo} width="80px"></img>
+      <img src={logo} width="80px" className={styles.footerLogo}></img>
       <p>Alexandre / Marie / Tessa / Valmont</p>
     </div>
   );
