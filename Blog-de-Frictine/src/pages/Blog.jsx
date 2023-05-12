@@ -1,5 +1,10 @@
+
 import Posts from "../components/Posts/Posts";
 
-export default function Blog() {
+t default function Blog() {
   return <Posts />;
 }
+
+
+export default Blog;
+
