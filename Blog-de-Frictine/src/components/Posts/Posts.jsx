@@ -21,7 +21,7 @@ export default function Posts() {
             <h1 className={styles.title}>SALUT C'EST FANOCH :D</h1>
           </div>
           <p className={styles.paraPost}>
-            Oh, ma gueule, j'te raconte mon trip de ouf en Inde pour voir mon
+            Oh, ma poule, j'te raconte mon trip de ouf en Inde pour voir mon
             gourou ! C'était le voyage spirituel de ma life, j'te dis pas !
             Dejà, l'avion, c'etait la croisière s'amuse, ma biche ! Les hotesses
             en saris, les sieges tout confort, et la bouffe épicee à tomber par
