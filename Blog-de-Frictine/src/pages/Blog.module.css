@@ -1,6 +1,5 @@
-/* .containerPage {
+ .containerPage {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+    flex-direction: row;
     height: 100%;
-} */
+}
