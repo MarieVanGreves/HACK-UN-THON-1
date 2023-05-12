@@ -4,12 +4,13 @@ import Feeds from "../components/Feeds/Feeds";
 // import styles from "./Blog.module.css";
 
 function Blog() {
-  return <Posts />;
-    return ( 
-        
-            <Feeds />
-       
-     );
+
+  return (
+    <div>
+      <Posts />
+      <Feeds />
+    </div>
+  );
 }
 
 export default Blog;
