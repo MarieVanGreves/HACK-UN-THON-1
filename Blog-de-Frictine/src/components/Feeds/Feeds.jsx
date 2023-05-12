@@ -85,7 +85,7 @@ function Feeds() {
         <div className={styles.right}>
           <p className={styles.feedTitle}>@RAND'HOME</p>
           <p className={styles.message}>
-            Hey coucou, je suis Rand'Hom , j'aime trop me dorée la pillule !
+            Hey coucou, je suis Rand'Hom , j'aime trop me dorer la pillule !
           </p>
         </div>
       </div>
