@@ -1,26 +1,32 @@
+@font-face {
+    font-family: "Bebas-Regular";
+    src: url('/src/assets/Bebas-Regular.ttf');
+}
+
 .feedContainer {
     display: flex;
-    flex-wrap: wrap-reverse;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-end;
-    align-content: space-between;
+    align-items: center;
+    height: 75vh;
+    width: 25vw;
     overflow-y: scroll;
+    margin-top: 4%;
+    font-family: 'Bebas-Regular', sans
 }
 
 .feed {
-    padding: 50px;
-    margin: 10px;
-    width: 25%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+    gap: 3%;
+    width: 90%;
+    height: 10%;
+    padding: 3%;
     border-radius: 10px;
-    background-color: rgba(31, 30, 30, 0.363);
+    background-color: rgba(31, 30, 30, 0.548);
+    filter: drop-shadow(5px 5px 10px #000);
     color: #D3D3D3;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    grid-template-rows: 25% 75%; 
-    align-content: center;
-    margin-right: 10%;
-    
+ 
 }
 
 
@@ -28,7 +34,6 @@
 
 
 .feedTitle {
-    
     grid-area: 1 / 2 / 2 / 3;
     margin-top: 0;
     margin-bottom: 0;

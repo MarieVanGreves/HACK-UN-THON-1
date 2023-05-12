@@ -1,12 +1,12 @@
 import Posts from "../components/Posts/Posts";
+import styles from "./Blog.module.css";
 
 import Feeds from "../components/Feeds/Feeds";
 // import styles from "./Blog.module.css";
 
 function Blog() {
-
   return (
-    <div>
+    <div className={styles.containerPage}>
       <Posts />
       <Feeds />
     </div>

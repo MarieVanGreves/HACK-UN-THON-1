@@ -7,9 +7,12 @@
     width: 100%;
     font-size: large;
     font-weight: bold;
-    background-color: blue;
     left: 0;
     height: 60px;
     bottom: 0;
     background-color: #66635b49;
+}
+
+.hackUnThon {
+    margin-left: 6%;
 }
