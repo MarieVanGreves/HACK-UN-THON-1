@@ -1,13 +1,8 @@
-
 :root {
-    left: 0;
-    top: 0;
-    background-image: url(./assets/backgroundBlog.png);
-    background-size: cover;
-    background-repeat: none;
-    /* overflow: hidden; */
+  left: 0;
+  top: 0;
+  background-image: url(./assets/backgroundBlog.png);
+  background-size: cover;
+  background-repeat: none;
+  /* overflow: hidden; */
 }
-
-
-
-

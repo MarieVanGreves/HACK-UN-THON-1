@@ -1,54 +1,54 @@
 @font-face {
-    font-family: "PurpleQueen";
-    src: url('/src/assets/PurpleQueen.ttf');
+  font-family: "PurpleQueen";
+  src: url("/src/assets/PurpleQueen.ttf");
 }
 @font-face {
-    font-family: "Bebas-Regular";
-    src: url('/src/assets/Bebas-Regular.ttf');
+  font-family: "Bebas-Regular";
+  src: url("/src/assets/Bebas-Regular.ttf");
 }
 
-
-
 .welcomeContainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 90vh;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  width: 100vw;
+  filter: drop-shadow(5px 5px 10px #000);
 }
 
 .welcomeTitle {
-    color: white;
-    font-size: 10vh;
-    font-family: 'PurpleQueen', sans-serif;
-    margin-top: 30px;
-    margin-bottom: 30px;
+  color: white;
+  font-size: 10vh;
+  font-family: "PurpleQueen", sans-serif;
+  margin-bottom: 7%;
 }
 
 .welcomeBtn {
-    border-radius: 25px;
-    padding: 2vh;
-    background-color: #ffffff7a;
-    border: none;
-    font-family: 'Bebas-Regular', sans-serif;
-    font-size: 2.5vh;
-    width: 15vw;
-    text-decoration: none;
+  border-radius: 25px;
+  padding: 2vh;
+  background-color: #ffffff7a;
+  border: none;
+  font-family: "Bebas-Regular", sans-serif;
+  font-size: 2.5vh;
+  width: 15vw;
+  text-decoration: none;
+  margin-bottom: 5%;
 }
 
 .welcomeBtn:hover {
-    background-color: #9c14bb93;
-    text-decoration: none;
+  background-color: #9c14bb93;
+  text-decoration: none;
 }
 
 .containerBgTitle {
-    display: flex;
-    border-radius: 10px;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #66635b49;
-    width: 50%;
-    height: 50%;
+  display: flex;
+  border-radius: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #66635b49;
+  width: 50%;
+  height: 50%;
+  margin-bottom: 5%;
 }
