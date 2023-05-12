@@ -4,6 +4,7 @@
     background-image: url(./assets/backgroundBlog.png);
     background-size: cover;
     background-repeat: none;
+    overflow: hidden;
 }
 
 
