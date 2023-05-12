@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import React from "react";
 import styles from "../src/App.module.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
@@ -25,8 +19,6 @@ function App() {
       <Footer />
     </Router>
   );
-
-  
 }
 
 export default App;
