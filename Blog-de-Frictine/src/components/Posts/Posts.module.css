@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Bebas-Regular";
+    src: url('/src/assets/Bebas-Regular.ttf');
+}
+
+@font-face {
+    font-family: "PurpleQueen";
+    src: url('/src/assets/PurpleQueen.ttf');
+}
+
 .containerPosts {
     display: flex;
     flex-direction: column;
@@ -14,23 +24,56 @@
 }
 
 .containerLeft {
+    display: flex;
+    flex-direction: column;
     height: 100%;
+    align-items: center;
 }
 
 .containerRight {
     display: flex;
     flex-direction: column;
-    height: 100%;
+    padding: 2%;
+    height: 80%;
+    overflow-y: scroll;
 }
 
 .uniquePostOne, .uniquePostTwo, .uniquePostThree, .uniquePostFour, .uniquePostFive, .uniquePostSix {
     display: flex;
     flex-direction: row;
     margin-bottom: 2%;
-    gap: 5%;
-    width: 100%;
+    gap: 3%;
+    width: 90%;
     height: 40%;
     padding: 1%;
     border-radius: 10px;
-    background-color: rgba(211, 211, 211, 0.363);
+    background-color: rgba(31, 30, 30, 0.548);
+    color: #D3D3D3;
+}
+
+.pictures {
+    height: 22vh;
+    width: 17vw;
+    border-radius: 8px;
+}
+
+.title {
+    font-family: 'PurpleQueen', sans-serif;
+    font-size: 4vh;
+}
+
+.date {
+    font-size: 2vh;
+    font-family: 'PurpleQueen', sans-serif;
+}
+
+.paraPost {
+    font-family: 'Bebas-Regular', sans-serif;
+
+}
+
+.arrow {
+    color: #de82f3;
+    font-size: 3vh;
+    margin-top: 30%;
 }
