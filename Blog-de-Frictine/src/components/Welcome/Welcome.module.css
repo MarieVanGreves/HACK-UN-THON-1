@@ -34,10 +34,12 @@
     font-family: 'Bebas-Regular', sans-serif;
     font-size: 2.5vh;
     width: 15vw;
+    text-decoration: none;
 }
 
 .welcomeBtn:hover {
     background-color: #9c14bb93;
+    text-decoration: none;
 }
 
 .containerBgTitle {
