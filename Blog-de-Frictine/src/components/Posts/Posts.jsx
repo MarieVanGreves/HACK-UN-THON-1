@@ -75,18 +75,18 @@ export default function Posts() {
             <h1 className={styles.title}>SALUT, C'EST FANLINE !</h1>
           </div>
           <p className={styles.paraPost}>
-            He salut ma gueule ! Tu vas pas le croire, j'te raconte mon voyage
-            de ouf a Miami, tu vas etre sur le cul, j'te dis pas ! Deja, tu
-            sais, j'me suis pointee la-bas avec ma bande de meufs, en mode
-            bikini, lunettes de soleil, talons hauts, tu vois l'delire.
-            Direction la plage de South Beach, la ou c'est tout chaud, avec le
-            sable blanc, les palmiers et les p'tites vagues qui chatouillent tes
-            pieds. On s'est fait peter les selfies de ouf devant les cabanes
-            colorees, en mode pose lascive, le vent dans les cheveux, histoire
-            de montrer qu'on est des vraies bombasses. Les mecs sur la plage,
-            ils en pouvaient plus, genre "Oh la mif, regardez ces cagolasses,
-            elles viennent d'ou ? Marseille ? Trop canons !" Evidemment, on a
-            fait peter les fringues de malade. Les robes moulantes, les shorts
+            He salut ma biche ! Tu vas pas le croire, j'te raconte mon voyage de
+            ouf a Miami, tu vas etre sur le cul, j'te dis pas ! Deja, tu sais,
+            j'me suis pointee la-bas avec ma bande de meufs, en mode bikini,
+            lunettes de soleil, talons hauts, tu vois l'delire. Direction la
+            plage de South Beach, la ou c'est tout chaud, avec le sable blanc,
+            les palmiers et les p'tites vagues qui chatouillent tes pieds. On
+            s'est fait peter les selfies de ouf devant les cabanes colorees, en
+            mode pose lascive, le vent dans les cheveux, histoire de montrer
+            qu'on est des vraies bombasses. Les mecs sur la plage, ils en
+            pouvaient plus, genre "Oh la mif, regardez ces cagolasses, elles
+            viennent d'ou ? Marseille ? Trop canons !" Evidemment, on a fait
+            peter les fringues de malade. Les robes moulantes, les shorts
             ultra-courts, les talons a paillettes, tout ça quoi ! Tu sais, quand
             tu marches, t'entends le son de la bimbo qui claque sur le bitume.
             Les gens se retournaient sur notre passage, ils etaient carrement
@@ -132,7 +132,7 @@ export default function Posts() {
           </div>
           <p className={styles.paraPost}>
             Oh la meuf, t'as pas idee de l'aventure que j'ai vecue a Bali, ma
-            gueule ! J'ai fait une retraite spirituelle de ouf, ça m'a mis la
+            fleur ! J'ai fait une retraite spirituelle de ouf, ça m'a mis la
             tete a l'envers, je te dis pas. Dejà, le voyage en avion, c'etait un
             truc de dingue. Les sieges super confortables, les ecrans avec des
             films de malade, et la bouffe qui te fait voyager jusqu'a l'autre
