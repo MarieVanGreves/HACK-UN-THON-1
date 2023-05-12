@@ -42,7 +42,7 @@
     font-size: 30px;
 }
 
-.navLinks:hover {
+.navLink:hover {
     cursor: pointer;
     color: #9364d4;
     transition: color 0.2s ease-out;
